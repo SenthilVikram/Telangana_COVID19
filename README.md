@@ -7,4 +7,4 @@ Click [here](https://senthilvikram.github.io/Telangana_COVID19/) to view the web
 
 An info section as seen in the image below is popped up on hovering on a state. 
 
-<img src="https://github.com/SenthilVikram/Telangana_COVID19/previewimg.jpg" width="600">
+<img src="https://github.com/SenthilVikram/Telangana_COVID19/blob/master/previewimg.jpg" width="600">
